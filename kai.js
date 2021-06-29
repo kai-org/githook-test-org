@@ -1,4 +1,4 @@
 (async function () {
-  const age = 17
+  const age = 17;
   console.log(`Age: ${age}`)
 }())
